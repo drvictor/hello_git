@@ -1,0 +1,3 @@
+git commit
+	commit a version
+	open vi to input message
